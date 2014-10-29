@@ -1,0 +1,9 @@
+# If statement ends in a question mark i want "huh?"
+#if the statement is in all caps I want blah blah
+# do something else
+
+# if statement has no letters
+
+# redo this using regular expressions 10 28 14
+#special = "?"
+#regex = /[#{special.gsub(/./) {|char| "\\#{char}"}}]/
